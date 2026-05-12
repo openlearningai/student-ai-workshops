@@ -1,3 +1,5 @@
+A brief portfolio highlighting educational initiatives, mentoring activities, workshop engagements, and ecosystem contributions is available in the /portfolio section of this repository.
+
 # AI Literacy for Students
 
 This repository contains educational resources, workshop materials, mentoring notes, and responsible AI learning initiatives designed for students, young innovators, and emerging learning communities.
